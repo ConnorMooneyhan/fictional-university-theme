@@ -9,11 +9,11 @@
     "advanced custom fields"
   ],
   "require-dev": {
-    "php": "^7.1",
+    "php": "^8.0.8",
     "ext-gettext": "*",
     "giacocorsiglia/stubs-generator": "^0.5.0",
     "giacocorsiglia/wordpress-stubs": "*",
-    "wpackagist-plugin/advanced-custom-fields": "5.8.7"
+    "wpackagist-plugin/advanced-custom-fields": "5.11.4"
   },
   "license": "GPL-2.0+",
   "authors": [
